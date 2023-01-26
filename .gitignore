@@ -1,0 +1,51 @@
+.DS_Store
+/node_modules
+/dist
+.directory
+
+# font-awesome registry token
+.npmrc
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+/test.json
+/.idea/
+
+# dependencies
+node_modules
+
+# logs
+npm-debug.log
+
+# Nuxt build
+.nuxt
+
+# Nuxt generate
+dist
+
+# Coverage report
+coverage
+
+# Deb building
+*.deb
+*.tar.gz
+
+#packages
+stats.html

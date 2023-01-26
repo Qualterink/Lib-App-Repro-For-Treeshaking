@@ -1,0 +1,9 @@
+{
+  "bracketSpacing": true,
+  "jsxBracketSameLine": false,
+  "trailingComma": "none",
+  "semi": true,
+  "singleQuote": false,
+  "endOfLine": "auto",
+  "htmlWhitespaceSensitivity": "ignore"
+}
